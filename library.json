@@ -1,6 +1,6 @@
 {
   "name": "ControlDM11A88",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple DM11A88 8x8 led matrix library for ESP8266.",
   "keywords": "DM11A88, led, matrix, display",
   "repository":
