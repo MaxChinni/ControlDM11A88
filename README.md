@@ -47,3 +47,11 @@ examples.
 ## Resources
 
 * [8x8 ONLINE LED HEX/ BINARY PATTERN GENERATOR FOR ARDUINO](https://www.riyas.org/2013/12/online-led-matrix-font-generator-with.html)
+
+## Donations
+
+<a href="docs/bitcoin-address-qr.png?raw=1"><img alt="bitcoin address qr" src="docs/bitcoin-address-qr.png" width="150" /></a>
+
+<a href='https://ko-fi.com/K3K21S534' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=VNJW6ZLHPM23Q">PayPal</a>
