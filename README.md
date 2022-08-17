@@ -31,3 +31,11 @@ void loop()
     }
 }
 ```
+
+### Tested on
+
+* Wemos D1 mini
+
+## Resources
+
+* [8x8 ONLINE LED HEX/ BINARY PATTERN GENERATOR FOR ARDUINO](https://www.riyas.org/2013/12/online-led-matrix-font-generator-with.html)
