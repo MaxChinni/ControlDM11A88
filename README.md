@@ -35,9 +35,11 @@ void loop()
 }
 ```
 
-The library can help you to draw animations, too (see [sprites](examples/sprites) example)
+The library can help you to draw animations, too, see [sprites](examples/sprites) and [counter](examples/counter)
+examples.
 
 <img alt="sprites animation" src="examples/sprites/sprites.gif" />
+<img alt="sprites animation" src="examples/counter/counter.gif" />
 
 ### Tested on
 
