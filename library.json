@@ -1,0 +1,26 @@
+{
+  "name": "ControlDM11A88",
+  "version": "1.0.0",
+  "description": "Simple DM11A88 8x8 led matrix library for ESP8266.",
+  "keywords": "DM11A88, led, matrix, display",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/MaxChinni/ControlDM11A88"
+  },
+  "authors":
+  [
+    {
+      "name": "Massimiliano Chinni",
+      "email": "controldm11a88@mx17.net",
+      "url": "https://blog.mx17.net/",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/MaxChinni/ControlDM11A88/",
+  "dependencies": {
+  },
+  "frameworks": "*",
+  "platforms": "*"
+}
