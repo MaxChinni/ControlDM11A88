@@ -38,7 +38,7 @@ void loop()
 The library can help you to draw animations, too, see [sprites](examples/sprites) and [counter](examples/counter)
 examples.
 
-<img alt="sprites animation" src="examples/sprites/sprites.gif" height="200" /> <img alt="sprites animation" src="examples/counter/counter.gif" height="200" />
+<img alt="sprites animation" src="examples/sprites/sprites.gif" height="200" /> <img alt="counter animation" src="examples/counter/counter.gif" height="200" />
 
 ### Tested on
 
