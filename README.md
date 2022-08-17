@@ -35,6 +35,10 @@ void loop()
 }
 ```
 
+The library can help you to draw animations, too (see [sprites](examples/sprites) example)
+
+<img alt="sprites animation" src="examples/sprites/sprites.gif" />
+
 ### Tested on
 
 * Wemos D1 mini
