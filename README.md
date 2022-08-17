@@ -1,4 +1,4 @@
-# ControlDM11A88
+# ControlDM11A88 [![PlatformIO Registry](https://badges.registry.platformio.org/packages/maxchinni/library/ControlDM11A88.svg)](https://registry.platformio.org/libraries/maxchinni/ControlDM11A88)
 Simple DM11A88 8x8 led matrix library for ESP8266.
 
 ## DM11A88
