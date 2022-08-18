@@ -54,6 +54,7 @@ You can daisy chain multiple devices, see [multipleDevices](examples/multipleDev
 * [ESP8266: Controlling a LED matrix with the 74HC595 ICs](https://techtutorialsx.com/2016/09/17/esp8266-controlling-a-led-matrix-with-the-74hc595-ics/)
 * [Control 8x8 Led Matrix with 2 74HC595](https://forum.arduino.cc/t/control-8x8-led-matrix-with-2-74hc595/556033)
 * [Segment LED Display Tutorial for Arduino, ESP8266 and ESP32](https://diyi0t.com/segment-led-display-tutorial-for-arduino-and-esp8266/)
+* [LedControl library(http://wayoda.github.io/LedControl/)
 
 ## Donations
 
