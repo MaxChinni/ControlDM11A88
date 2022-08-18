@@ -42,7 +42,7 @@ examples.
 
 You can daisy chain multiple devices, see [multipleDevices](examples/multipleDevices) example.
 
-<img alt="multipleDevices example" src="examples/multipleDevices/multipleDevices.gif" height="200" />
+<img alt="multipleDevices example" src="examples/multipleDevices/multipleDevices.jpg" height="200" />
 
 ### Tested on
 
