@@ -2,7 +2,7 @@
 #include <Ticker.h>
 
 // Parameters: DI_PIN, CLK_PIN, LAT_PIN
-ControlDM11A88 lc(D7, D8, D5);
+ControlDM11A88 lc(D7, D8, D5, 1);
 
 void timeStep();
 
@@ -43,6 +43,6 @@ void timeStep()
 void refreshDisplay()
 {
     for (i=0; i<8; i++) {
-        lc.setRow(i, status[i]);
+        lc.setRow(0, i, status[i]);
     }
 }

@@ -9,18 +9,18 @@ DM11A88 is a 8×8 square led matrix module which is based on a couple of 74hc595
 ## Library
 This library can draw whatever you want on the display, but it needs to be constantly refreshed in the `loop()`.
 
-Full example (see [writeM example](examples/writeM/)):
+Full example (see [writeM](examples/writeM/) example):
 
 ```cpp
 #include <ControlDM11A88.h>
 
 // Parameters: DI_PIN, CLK_PIN, LAT_PIN
-ControlDM11A88 lc(D7, D8, D5);
+ControlDM11A88 lc(D7, D8, D5, 1);
 
 uint8_t i;
 uint8_t led[] = {
-    B10000010, B11000110, B10101010, B10010010, 
-    B10000010, B10000010, B10000010, B10000010
+    B10000010, B11000110, B10101010, B10010010,
+    B10000010, B10000010, B10000010, B10000010,
 };
 
 void setup()
@@ -30,7 +30,7 @@ void setup()
 void loop()
 {
     for (i=0; i<8; i++) {
-        lc.setRow(i, led[i]);
+        lc.setRow(0, i, led[i]);
     }
 }
 ```
@@ -39,6 +39,10 @@ The library can help you to draw animations, too, see [sprites](examples/sprites
 examples.
 
 <img alt="sprites animation" src="examples/sprites/sprites.gif" height="200" /> <img alt="counter animation" src="examples/counter/counter.gif" height="200" />
+
+You can daisy chain multiple devices, see [multipleDevices](examples/multipleDevices) example.
+
+<img alt="multipleDevices example" src="examples/multipleDevices/multipleDevices.gif" height="200" />
 
 ### Tested on
 
